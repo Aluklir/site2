@@ -1,0 +1,20 @@
+.procrastination {
+	font-variant: small-caps;
+	font-style: normal;
+	}
+.title {
+	font-weight: bold;
+	font-size: 40px;
+	letter-spacing: 1.5px;
+	}
+div { 
+	font-family: Roboto Slab;
+	}
+p {
+	line-height: 2;
+	}
+.s {
+	font-family: Garamond; 
+	font-style: italic;
+	font-size: 20px;
+	}
